@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00A7E65F1C170EA400E9D0BA /* kateup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00A7E65E1C170EA400E9D0BA /* kateup.jpg */; };
+		0006A9621C1714B900D1B2E3 /* kateup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0006A9611C1714B900D1B2E3 /* kateup.jpg */; };
 		00C637F31C170BFB00A4F3C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 00C637F21C170BFB00A4F3C3 /* main.m */; };
 		00C637F61C170BFB00A4F3C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 00C637F51C170BFB00A4F3C3 /* AppDelegate.m */; };
 		00C637F91C170BFB00A4F3C3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00C637F81C170BFB00A4F3C3 /* ViewController.m */; };
@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		00A7E65E1C170EA400E9D0BA /* kateup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kateup.jpg; path = ../../kateup.jpg; sourceTree = "<group>"; };
+		0006A9611C1714B900D1B2E3 /* kateup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kateup.jpg; path = SCCarousel/kateup.jpg; sourceTree = "<group>"; };
 		00C637EE1C170BFB00A4F3C3 /* SCCarousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SCCarousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00C637F21C170BFB00A4F3C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		00C637F41C170BFB00A4F3C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -47,6 +47,7 @@
 		00C637E51C170BFB00A4F3C3 = {
 			isa = PBXGroup;
 			children = (
+				0006A9611C1714B900D1B2E3 /* kateup.jpg */,
 				00C637F01C170BFB00A4F3C3 /* SCCarousel */,
 				00C637EF1C170BFB00A4F3C3 /* Products */,
 			);
@@ -68,7 +69,6 @@
 				00C637F71C170BFB00A4F3C3 /* ViewController.h */,
 				00C637F81C170BFB00A4F3C3 /* ViewController.m */,
 				00C637FA1C170BFB00A4F3C3 /* Main.storyboard */,
-				00A7E65E1C170EA400E9D0BA /* kateup.jpg */,
 				00C637FD1C170BFB00A4F3C3 /* Assets.xcassets */,
 				00C637FF1C170BFB00A4F3C3 /* LaunchScreen.storyboard */,
 				00C638021C170BFB00A4F3C3 /* Info.plist */,
@@ -147,7 +147,7 @@
 				00C638011C170BFB00A4F3C3 /* LaunchScreen.storyboard in Resources */,
 				00C637FE1C170BFB00A4F3C3 /* Assets.xcassets in Resources */,
 				00C637FC1C170BFB00A4F3C3 /* Main.storyboard in Resources */,
-				00A7E65F1C170EA400E9D0BA /* kateup.jpg in Resources */,
+				0006A9621C1714B900D1B2E3 /* kateup.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
